@@ -183,7 +183,7 @@ export default function Home() {
           <div className="mb-16">
             <span className="inline-block py-px px-2 mb-4 text-xs leading-5 text-red-500 bg-red-100 font-medium uppercase rounded-9xl">NUESTROS CLIENTES</span>
             <h2 className="mb-4 text-4xl md:text-5xl leading-tight font-semibold tracking-tighter">TESTIMONIOS</h2>
-            <p className="text-xl font-medium text-coolGray-500">Con Rivera's Paintings puedes tener la casa que sueñas.</p>
+            <p className="text-xl font-medium text-coolGray-500">Con Rivera&apos;s Paintings puedes tener la casa que sueñas.</p>
           </div>
           <div className="flex flex-wrap -mx-4">
             <div className="w-full md:w-1/2 lg:w-1/3 px-4 mb-8">
